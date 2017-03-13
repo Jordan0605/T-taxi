@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">T-taxi</string>
+    <string name="apiKey">AIzaSyCEICHaWPSYVqC4FsEiJ3OkjH_CKnvuRLE</string>
+    <string name="PREFS_NAME">my_pref</string>
+</resources>
